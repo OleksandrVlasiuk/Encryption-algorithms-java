@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Caesars_Cipher_Vlasiuk/Caesars_Cipher_Vlasiuk.iml" filepath="$PROJECT_DIR$/Caesars_Cipher_Vlasiuk/Caesars_Cipher_Vlasiuk.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Diffie-Hellman_protocole_Vlasiuk/Diffie-Hellman_protocole_Vlasiuk.iml" filepath="$PROJECT_DIR$/Diffie-Hellman_protocole_Vlasiuk/Diffie-Hellman_protocole_Vlasiuk.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Gamming_cipher_Vlasiuk/Gamming_cipher_Vlasiuk.iml" filepath="$PROJECT_DIR$/Gamming_cipher_Vlasiuk/Gamming_cipher_Vlasiuk.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Knapsack_cipher_Vlasiuk/Knapsack_cipher_Vlasiuk.iml" filepath="$PROJECT_DIR$/Knapsack_cipher_Vlasiuk/Knapsack_cipher_Vlasiuk.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RSA_cipher_Vlasiuk/RSA_cipher_Vlasiuk.iml" filepath="$PROJECT_DIR$/RSA_cipher_Vlasiuk/RSA_cipher_Vlasiuk.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Trithemius_cipher_Vlasiuk/Trithemius_cipher_Vlasiuk.iml" filepath="$PROJECT_DIR$/Trithemius_cipher_Vlasiuk/Trithemius_cipher_Vlasiuk.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/java-cryptography-labs.iml" filepath="$PROJECT_DIR$/.idea/java-cryptography-labs.iml" />
+    </modules>
+  </component>
+</project>
